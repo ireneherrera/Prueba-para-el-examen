@@ -1,6 +1,6 @@
-#el objetivo de este proyecto es git
+###el objetivo de este proyecto es git
 
-vamos a seguir estaos pasos
+##vamos a seguir estaos pasos
 
 1.
 2.

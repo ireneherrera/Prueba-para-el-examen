@@ -4,5 +4,5 @@ vamos a seguir estaos pasos
 
 1.
 2.
-3. Analizar outliers
+3. Analizar los datos
 4. Hacer los descriptivos

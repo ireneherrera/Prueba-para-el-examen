@@ -1,4 +1,4 @@
-el objetivo de este proyecto es git
+#el objetivo de este proyecto es git
 
 vamos a seguir estaos pasos
 
@@ -6,3 +6,5 @@ vamos a seguir estaos pasos
 2.
 3. Analizar los datos
 4. Hacer los descriptivos
+5. Hola
+6. kcdjkcdjnc
